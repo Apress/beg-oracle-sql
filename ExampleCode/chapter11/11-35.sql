@@ -1,0 +1,2 @@
+show markup
+set markup

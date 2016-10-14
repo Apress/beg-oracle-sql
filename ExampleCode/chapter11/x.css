@@ -1,0 +1,135 @@
+BODY {
+	font : 10pt Arial, Helvetica, sans-serif;
+	color : black;
+	background : White;
+}
+
+P {
+	font : 10pt Arial, Helvetica, sans-serif;
+	color : black;
+	background : White;
+}
+
+FORM {
+	font : 10pt Arial, Helvetica, sans-serif;
+	color : black;
+	background : White;
+}
+
+TEXTAREA {
+	font : 10pt "Courier New", Courier, monospace;
+}
+
+INPUT {
+	font : 10pt Arial, Helvetica, sans-serif;
+}
+
+LABEL{
+	font: 10pt Arial, Helvetica, sans-serif;
+}
+
+TH {
+	font : bold 10pt Arial, Helvetica, sans-serif;
+	color : #336699;
+	background : #cccc99;
+	padding : 0px 0px 0px 0px;
+}
+
+TABLE, TR, TD {
+	font : 10pt Arial, Helvetica, sans-serif;
+	color : Black;
+	background : #f7f7e7;
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+}
+
+H1 {
+	font: 16pt Arial, Helvetica, Geneva, sans-serif;
+	color : #336699;
+	background-color : White;
+	border-bottom : 1px solid #cccc99;
+	margin-top : 0pt;
+	margin-bottom : 0pt;
+	padding : 0px 0px 0px 0px;
+}
+
+H2 {
+	font: bold 10pt Arial, Helvetica, Geneva, sans-serif;
+	color:#336699;
+	background-color : White;
+	margin-top : 4pt;
+	margin-bottom : 0pt;
+}
+
+.tablePlusUIHead {
+	font: bold 10pt Arial, Helvetica, sans-serif;
+	color: #336699;
+	background: White;
+	text-align : left;
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+}
+
+.tablePlusUI {
+	font : 10pt Arial, Helvetica, sans-serif;
+	color : Black;
+	background : White;
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+}
+
+.globalButton {
+	font : 9pt Arial, Helvetica, sans-serif;
+	color : #663300;
+	background : #ffffff;
+	text-align : center;
+	margin-top : 0pt;
+	margin-bottom : 0pt;
+	vertical-align : top;
+}
+
+.globalButtonInactive {
+	font : 9pt Arial, Helvetica, sans-serif;
+	color : #000000;
+	background : #ffffff;
+	text-align : center;
+	margin-top : 0pt;
+	margin-bottom : 0pt;
+	vertical-align : top;
+}
+
+ A:LINK, A:VISITED, A:ACTIVE, A, .breadCrumbs {
+	font : 9pt Arial, Helvetica, sans-serif;
+	color : #663300;
+	background : #ffffff;
+	margin-top : 0pt;
+	margin-bottom : 0pt;
+	vertical-align : top;
+}
+
+.breadCrumbsInactive {
+	font : 9pt Arial, Helvetica, sans-serif;
+	color : #000000;
+	background : #ffffff;
+	margin-top : 0pt;
+	margin-bottom : 0pt;
+	vertical-align : top;
+}
+
+.labelHead {
+	font : 10pt Arial, Helvetica, Geneva, sans-serif;
+	color : #000000;
+	background : #ffffff;
+	text-align : right;
+}
+
+.ski {
+	font : 9pt Arial, Helvetica, sans-serif;
+	color: Black;
+	background : White;
+	border-top : 1px solid #cccc99;
+	text-align : right;
+	margin : 14px 0px 0px 0px;
+	padding : 12px 0px 0px 0px;
+}
+
